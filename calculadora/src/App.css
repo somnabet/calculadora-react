@@ -1,0 +1,27 @@
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background: linear-gradient(to top, #ff7e5f, #feb47b);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-calculadora {
+  width: 400px;
+  height: 570px;
+  padding: 40px;
+  padding-bottom: 80px;
+  background: linear-gradient(to top, #5fa4ff, #12ff89);
+  border-radius: 10px 10px 50px 50px;
+  box-shadow: 6px 6px 1px 1px rgba(73, 73, 73, 0.514);
+}
+
+.fila {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
